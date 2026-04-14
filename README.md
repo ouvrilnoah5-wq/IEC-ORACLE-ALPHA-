@@ -1,5 +1,5 @@
 # IEC-ORACLE-ALPHA-
-Test avec kernel souverain (simulation non debrider) 
+Test avec kernel souverain (simulation non debrider) sous DOI /SHA 
 # -*- coding: utf-8 -*-
 # IEC v12.7 FINAL - 1 PARAMETRE GLOBAL
 # vcourbepredictorgravition = alpha
